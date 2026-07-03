@@ -1,0 +1,8 @@
+streamlit
+openai
+langchain
+langchain-groq
+pypdf
+Pillow
+groq
+python-dotenv
