@@ -11,3 +11,4 @@ python-dotenv
 sentence-transformers
 transformers
 torch
+faiss-cpu
